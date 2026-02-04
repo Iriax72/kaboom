@@ -7,7 +7,5 @@ kaboom({
     background: [10, 4, 35],
 });
 
-alert("isKeyDown: " + typeof isKeyDown + "\nunit: " + typeof vec2().unit);
-
 const player = new Player();
 setUpControls(player);
