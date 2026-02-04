@@ -1,10 +1,11 @@
-kaboom({
-  width: 640,
-  height: 360,
-  background: [0, 0, 0],
-})
+import { Player } from "./game/Player.js";
+import { setUpControls } from "./game/controls.js";
 
-add([
-  text("Kaboom fonctionne"),
-  pos(80, 150),
-])
+kaboom({
+    width: window.innerWidth,
+    height: window.innerHeight,
+    background: [10, 4, 35],
+});
+
+const player = new Player();
+setUpControls(player);
