@@ -1,1 +1,1 @@
-# kaboom
+Petit jeu 2d pour que j'apprenne à utiliser kaboom.js et que j'approfondisse mes connaissance js et dev JV.
