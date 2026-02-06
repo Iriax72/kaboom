@@ -1,1 +1,1 @@
-Petit jeu 2d pour que j'apprenne à utiliser kaboom.js et que j'approfondisse mes connaissance js et dev JV.
+Petit jeu 2d pour que j'apprenne à utiliser pixiJS et que j'approfondisse mes connaissance js et dev JV.
