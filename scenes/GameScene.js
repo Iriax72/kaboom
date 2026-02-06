@@ -1,5 +1,5 @@
 import * as PIXI from 'https://cdn.jsdelivr.net/npm/pixi.js@8/dist/pixi.mjs';
-import { Player } from '../entities/Player';
+import { Player } from '../entities/Player.js';
 
 export class GameScene extends PIXI.Container {
     constructor(app) {
